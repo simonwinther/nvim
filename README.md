@@ -4,11 +4,13 @@
 https://www.youtube.com/watch?v=TTgQV21X0SQ&t=470s
 
 
-# 1. Clone TPM (Tmux Plugin Manager)
+## 1. Clone TPM (Tmux Plugin Manager)
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
-# 2. Download josean-dev's tmux config
+## 2. Download josean-dev's tmux config
 curl https://raw.githubusercontent.com/josean-dev/dev-environment-files/main/.tmux.conf --output ~/.tmux.conf
+
+`ctrl+a+|` (vertical split), `ctrl + a + -` (horizontal), `ctrl +  h, j, k, l` vim motions to move around, `ctrl + c` - new window, `ctrl + s` (tmux sessions)
 
 Other the `.tmux.conf` is down below if he put it down:
 
