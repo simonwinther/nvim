@@ -12,7 +12,12 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ## 2. Download josean-dev's tmux config
 curl https://raw.githubusercontent.com/josean-dev/dev-environment-files/main/.tmux.conf --output ~/.tmux.conf
 
-`ctrl+a+|` (vertical split), `ctrl + a + -` (horizontal), `ctrl +  h, j, k, l` vim motions to move around, `ctrl + c` - new window, `ctrl + s` (tmux sessions)
+## TMux keybinds:
+- `ctrl +a + |` (vertical split)
+- `ctrl + a + -` (horizontal), 
+- `ctrl +  h, j, k, l` vim motions to move around,
+- `ctrl + a + c` - new window, 
+- `ctrl + a + s` (tmux sessions)
 
 Other the `.tmux.conf` is down below if he put it down:
 
