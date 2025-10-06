@@ -3,6 +3,8 @@
 # For my terminal I use wezterm with some stuff from this video added:
 https://www.youtube.com/watch?v=TTgQV21X0SQ&t=470s
 
+fork also here: https://github.com/simonwinther/dev-environment-files
+
 
 ## 1. Clone TPM (Tmux Plugin Manager)
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
